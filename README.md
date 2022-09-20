@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Sean
-- 👀 I’m interested in: Game Dev, VR/AR, Wordpress Dev, Android, etc.
-- 🌱 I’m currently learning: Game Dev
-- 📫 How to reach me: email
+Hey, this is my bio.
 
-<!---
-seanmckenzie428/seanmckenzie428 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Good at:**
+- Eating Pizza
+- PHP
+- Wordpress
+
+**Learning:**
+- VR/AR
+- NodeJS
+- Maya
