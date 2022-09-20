@@ -1,11 +1,11 @@
-Hey, this is my bio.
+# Hey, this is my bio! 🌴✌️
 
-**Good at:**
+**I'm good at:**
 - Eating Pizza
 - PHP
 - Wordpress
 
-**Learning:**
+**I'm learning:**
 - VR/AR
 - NodeJS
 - Maya
