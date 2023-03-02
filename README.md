@@ -19,7 +19,7 @@ I do a little bit of everything when it comes to coding. My main areas of experi
 
 **Email:** [contact@seanmckenzie.xyz](mailto:contact@seanmckenzie.xyz)  
 **GitHub:** [seanmckenzie428](https://github.com/seanmckenzie428)  
-**LinkedIn:** [seanmckenzie428](https://www.linkedin.com/in/sean-mckenzie-208b36230/)  
+**LinkedIn:** [Link](https://www.linkedin.com/in/sean-mckenzie-208b36230/)  
 
 
 ## Tech Stack
