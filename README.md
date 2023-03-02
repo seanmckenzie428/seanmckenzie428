@@ -1,5 +1,3 @@
-[![Header](https://raw.githubusercontent.com/seanmckenzie428/seanmckenzie428/main/bio/bio-cover.jpg)](seanmckenzie.xyz)
-
 # Hey, I'm Sean! ✌️
 
 I do a little bit of everything when it comes to coding. My main areas of experience are Unity and WordPress, but I do other stuff too, including making AR and VR apps. Currently I work as a web (primarily WordPress) developer, but I'm looking to move into either the gaming or AR industry once I graduate.
