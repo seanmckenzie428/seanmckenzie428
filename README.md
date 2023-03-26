@@ -15,7 +15,7 @@ I do a little bit of everything when it comes to coding. My main areas of experi
 
 ## Contact Me
 
-**Portfolio** [seanmckenzie.dev](https://seanmckenzie.dev)
+**Portfolio** [seanmckenzie.dev](https://seanmckenzie.dev)  
 **Email:** [contact@seanmckenzie.xyz](mailto:contact@seanmckenzie.xyz)  
 **GitHub:** [seanmckenzie428](https://github.com/seanmckenzie428)  
 **LinkedIn:** [Link](https://www.linkedin.com/in/sean-mckenzie-208b36230/)  
