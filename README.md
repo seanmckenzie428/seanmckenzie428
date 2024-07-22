@@ -1,6 +1,6 @@
 # Hey, I'm Sean! ✌️🌴
 
-I do a little bit of everything when it comes to coding. Right now I'm obsessed with Laravel, but I also have a lot of experience in custom WordPress development, Unity game development, and iOS and Android development.
+I do a little bit of everything when it comes to coding. Right now I'm obsessed with Laravel, but I also have a lot of experience in custom WordPress development, Unity game development, and iOS / Android development.
 
 ## About Me
 
