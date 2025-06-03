@@ -6,13 +6,15 @@ I do a little bit of everything when it comes to coding. Right now I'm obsessed 
 
 🎓 Graduated from Boise State with a BS in Games, Interactive Media, and Mobile Technology  
 💼 Currently working as a web developer at BoiseWEB  
-👨‍💻 I have experience in PHP/Laravel, iOS, Android, and Unity  
+👨‍💻 I have experience in PHP/Laravel, Vue.js, Typescript, iOS, Android, and Unity  
 🏓 I love playing pickleball in my spare time  
 
 ## Skills
 
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white) 
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black) 
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white) 
